@@ -1,1 +1,1 @@
-# Demystifying-AI-for-Doctors
+# Demystifying AI for-Doctors
