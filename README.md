@@ -1,4 +1,4 @@
-# Demystifying AI for-Doctors
+# Demystifying AI for Doctors
 
 This Excel file, **AI4Med\_present\_new2.xlsx**, is a comprehensive, step-by-step educational resource designed to illustrate the **core mechanics of a Neural Network (NN) by hand**. It provides detailed, numerical calculations for a complete deep learning workflow, from dataset preparation to multi-layer backpropagation.
 
