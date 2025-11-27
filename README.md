@@ -34,10 +34,10 @@ This file is structured across multiple sheets, each focusing on a distinct phas
 * **Content:** Extends the backpropagation demonstration to cover **multiple images** (a mini-batch or full epoch).
 * **Purpose:** Shows how gradients are accumulated across several samples to calculate the final weight and bias updates ($\Delta \mathbf{W}, \Delta \mathbf{b}$).
 
-### 6. Intro & Sheet1
+### 6. Intro
 
 * **Content:** Contains introductory information, high-level summaries of the topics covered ("Loss graph," "Multilayer"), and possible attribution/project context for the work.
 
 ***
 
-**Overall Project Goal:** To visually and numerically demystify deep learning concepts by translating complex matrix operations into manageable, cell-by-cell spreadsheet calculations, making it an excellent resource for learning AI "by hand."
+**Overall Project Goal:** To visually and numerically demystify deep learning concepts by translating complex matrix operations into manageable, cell-by-cell spreadsheet calculations, making it a resource for learning AI "by hand."
