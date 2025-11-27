@@ -44,3 +44,8 @@ This file is structured across multiple sheets, each focusing on a distinct phas
 ***
 
 **Overall Project Goal:** To visually and numerically demystify deep learning concepts by translating complex matrix operations into manageable, cell-by-cell spreadsheet calculations, making it a resource for learning AI "by hand."
+
+**Comment on the presenetation**
+
+<img width="457" height="723" alt="image" src="https://github.com/user-attachments/assets/8edce282-839f-427c-8188-ee529783de85" />
+
