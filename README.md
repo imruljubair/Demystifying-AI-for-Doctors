@@ -34,6 +34,9 @@ This file is structured across multiple sheets, each focusing on a distinct phas
 * **Content:** Extends the backpropagation demonstration to cover **multiple images** (a mini-batch or full epoch).
 * **Purpose:** Shows how gradients are accumulated across several samples to calculate the final weight and bias updates ($\Delta \mathbf{W}, \Delta \mathbf{b}$).
 
+<img width="472" height="589" alt="image" src="https://github.com/user-attachments/assets/de9c2c4c-cb64-4db1-ab2e-fb5d3783d0ba" />
+
+
 ### 6. Intro
 
 * **Content:** Contains introductory information, high-level summaries of the topics covered ("Loss graph," "Multilayer"), and possible attribution/project context for the work.
