@@ -1,6 +1,6 @@
 # Demystifying AI Basic for Doctors
 
-The Excel file, **AI4Med\_present\_new2.xlsx**, is a comprehensive, step-by-step educational resource designed to illustrate the **core mechanics of a Neural Network (NN) by hand**. It provides detailed, numerical calculations for a complete deep learning workflow, from dataset preparation to multi-layer backpropagation.
+This is a comprehensive, step-by-step educational resource designed to illustrate the **core mechanics of a Neural Network (NN) by hand**. It provides detailed, numerical calculations for a complete deep learning workflow, from dataset preparation to multi-layer backpropagation. It was presented to clinicians on October 2025 at a workshop hosted by [Medlenna](https://medlenna.com/) and 
 
 This file is structured across multiple sheets, each focusing on a distinct phase of the neural network lifecycle:
 
